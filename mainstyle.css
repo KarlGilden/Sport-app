@@ -1,0 +1,20 @@
+div{
+	text-align: center;
+	font-family: arial;
+	font-size: 20px;
+}
+ .tab{
+ 	width: 100%;
+ 	border-radius: 10px
+ 	border-color: grey;
+ 	background-color: #333;
+ }
+.tab button{
+	border-color: transparent;
+	background-color: transparent;
+}
+ .tab button a{
+ 	font-size: 25px;
+ 	text-decoration: none;
+ 	color: white;
+ }
